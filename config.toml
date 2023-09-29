@@ -1,0 +1,29 @@
+baseURL = "https://links.gardlt.io/"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+theme = "lynx"
+title = "Potato Traveler"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "Potato Traveler"
+  headline = "Photographer | Videographer | Programmer | Foodie"
+  image = "author.jpeg"
+  links = [
+    { email = "mailto:potatotraveler@gmail.com" },
+    { link = { href = "https://unsplash.com/", text = "Unsplash", icon = "unsplash" } },
+    { link = { href = "styles/", text = "All the link styles", target = "_self" } },
+    { github = "https://github.com/gardlt" },
+    { twitter = "https://twitter.com/traveler_potato" },
+    { instagram = "https://instagram.com/potato.traveler/" },
+  ]
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
