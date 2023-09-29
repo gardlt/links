@@ -19,7 +19,7 @@ disableKinds = ["taxonomy", "term"]
     { github = "https://github.com/gardlt" },
     { twitter = "https://twitter.com/traveler_potato" },
     { link = { href = "http://portfolio.gardlt.io/work/", text = "Portfolio", icon = "camera-retro-solid" } },
-    { link = { href = "http://blog.gardlt.io/", text = "Portfolio", icon = "blogger" } },
+    { link = { href = "http://blog.gardlt.io/", text = "Blog", icon = "blogger" } },
   ]
 
 [markup.highlight]
