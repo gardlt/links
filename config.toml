@@ -10,12 +10,11 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
   name = "Potato Traveler"
-  headline = "Photographer | Videographer | Programmer | Foodie"
+  headline = "Photographer | Videographer | Software | Foodie"
   image = "author.jpeg"
   links = [
     { email = "mailto:potatotraveler@gmail.com" },
-    { link = { href = "https://unsplash.com/", text = "Unsplash", icon = "unsplash" } },
-    { link = { href = "styles/", text = "All the link styles", target = "_self" } },
+    { link = { href = "https://unsplash.com/@potato_traveler", text = "Unsplash", icon = "unsplash" } },
     { github = "https://github.com/gardlt" },
     { twitter = "https://twitter.com/traveler_potato" },
     { instagram = "https://instagram.com/potato.traveler/" },
