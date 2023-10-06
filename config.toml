@@ -5,7 +5,7 @@ theme = "lynx"
 title = "Potato Traveler"
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
-googleAnalytics = "G-D9ZZYHF9QV"
+googleAnalytics = "G-4WR14R1NLK"
 
 [author]
   name = "Potato Traveler"
