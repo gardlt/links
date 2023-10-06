@@ -1,12 +1,11 @@
 baseURL = "https://links.gardlt.io/"
 languageCode = "en"
 defaultContentLanguage = "en"
-
 theme = "lynx"
 title = "Potato Traveler"
-
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
+googleAnalytics = "G-D9ZZYHF9QV"
 
 [author]
   name = "Potato Traveler"
