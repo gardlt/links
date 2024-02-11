@@ -6,18 +6,19 @@ title = "Potato Traveler"
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 googleAnalytics = "G-4WR14R1NLK"
+copyright = "Copyright German Rivera De La Torre"
 
 [author]
   name = "Potato Traveler"
   headline = "Photographer | Videographer | Software | Foodie"
   image = "author.jpeg"
   links = [
-    { link = { href = "https://unsplash.com/@potato_traveler", text = "Unsplash", icon = "unsplash" } },
-    { instagram = "https://instagram.com/potato.traveler/" },
-    { email = "mailto:potatotraveler@gmail.com" },
-    { github = "https://github.com/gardlt" },
-    { twitter = "https://twitter.com/traveler_potato" },
     { link = { href = "http://portfolio.gardlt.io/work/", text = "Portfolio", icon = "camera-retro-solid" } },
+    { instagram = "https://instagram.com/potato.traveler/" },
+    { link = { href = "https://unsplash.com/@potato_traveler", text = "Unsplash", icon = "unsplash" } },
+    { link = { href = "https://pixabay.com/users/potato_traveler-14397780/", text = "Pixabay", icon = "unsplash" } },
+    { email = "mailto:potatotraveler@gmail.com" },
+    { twitter = "https://twitter.com/traveler_potato" },
     { link = { href = "http://blog.gardlt.io/", text = "Blog", icon = "blogger" } },
   ]
 
