@@ -13,7 +13,6 @@ copyright = "Copyright German Rivera De La Torre"
   headline = "Photographer | Videographer | Software | Foodie"
   image = "author.jpeg"
   links = [
-    { link = { href = "https://potatotraveler.pixieset.com/saintlouismardigras/", text = "Saint Louis Mardi Gras 2024", icon = "camera-retro-solid" } },
     { link = { href = "http://portfolio.gardlt.io/work/", text = "Portfolio", icon = "camera-retro-solid" } },
     { instagram = "https://instagram.com/potato.traveler/" },
     { link = { href = "https://unsplash.com/@potato_traveler", text = "Unsplash", icon = "unsplash" } },
