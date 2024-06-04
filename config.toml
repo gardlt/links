@@ -8,9 +8,9 @@ disableKinds = ["taxonomy", "term"]
 googleAnalytics = "G-4WR14R1NLK"
 copyright = "Copyright German Rivera De La Torre"
 
-[author]
+[params.author]
   name = "Potato Traveler"
-  headline = "Photographer | Videographer | Software | Foodie"
+  headline = "Photographer | Videographer | Software"
   image = "author.jpeg"
   links = [
     { link = { href = "http://portfolio.gardlt.io/work/", text = "Portfolio", icon = "camera-retro-solid" } },
@@ -28,3 +28,8 @@ copyright = "Copyright German Rivera De La Torre"
 [markup.goldmark]
 [markup.goldmark.renderer]
   unsafe = true
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.86.1"
